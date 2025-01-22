@@ -10,7 +10,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 - 认知凤凰社
 	- 网站：https://pheonix-blog.netlify.app/
 		![[Pasted image 20250120194822.png]]
-	- 百年孤独Reaction
+	- [[百年孤独Reaction]]
 		![[Pasted image 20250121172921.png]]
 
 	- 公众号：
