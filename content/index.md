@@ -1,17 +1,21 @@
 ---
 title: Welcome to Neonity's Quartz
 ---
-
-This is a blank Quartz installation.
+A website built with [[Quartz]]
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 ## My Digital Garden Built with Quartz
 - [[Quartz]]: Obsidian官方发布平替方案
 - 认知凤凰社
-	- 网站：https://pheonix-blog.netlify.app/
-		![[Pasted image 20250120194822.png]]
+	- 网站：https://pheonix-blog.netlify.app/ #Astro-5 
+		![[assets/images/Pasted image 20250120194822.png]]
 	- [[百年孤独Reaction]]
-		![[Pasted image 20250121172921.png]]
+		![[assets/images/Pasted image 20250121172921.png]]
 
 	- 公众号：
 		- [素材]
+- 神器局
+	- 素材工具
+		- 录屏软件Mac
+			- [[Screen Studio]]
+			- 
