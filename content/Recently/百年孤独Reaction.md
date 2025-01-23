@@ -3,5 +3,12 @@
 	<div style="text-align: center; color: #888888; font-size: 0.9em;">Netflix - 美剧《百年孤独》</div>
 </div>	
 
+> [!note] Component
+> 
+> 图片 + Caption 组件
+> 
+> Quartz 可以完美支持 `Callout` 语法
+
+
 ## 参考链接
 - [维基百科 - 百年孤独](https://zh.wikipedia.org/wiki/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC)
