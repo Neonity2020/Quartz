@@ -1,6 +1,15 @@
 - based on [[Quartz]] 4.4
 	- Focus on my `readings` & `learnings` #readings #learnings
-- 路由系统：<a href="/tags/">Tags</a> / <a href="/announcements/">Announcements</a>
+- 路由系统：<a href="/tags/">Tags</a> / <a href="/announcements/">Announcements</a> / <a href="/areas/">Areas</a>
 - 侧边栏设计：
 	- Announcements 公告 / 通知
 	- Recently 最近文章
+	- Areas 领域
+		- AI-Coding
+		- AI-Reading
+		- AIGC
+		- DeSign
+		- MRI
+		- PKM
+		- Individual
+		- web-developing
