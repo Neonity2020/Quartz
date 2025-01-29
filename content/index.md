@@ -4,8 +4,10 @@ title: Welcome to Neonity's Quartz
 A website built with [[Quartz]]
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
-> [!Announcement] [[Neonity 1.0]]上线
+> [!hint] [[Neonity 1.0]]上线
+> 
 > Upgrading in Public...
+> 
 > [[Neonity-s-Quartz-v0.1 发布]]
 
 ## My Digital Garden Built with Quartz
