@@ -1,4 +1,5 @@
 # ZEN of a MRI Product Manager
+#MRI
 
 - Start to learn English
 - 不要给自己设限
