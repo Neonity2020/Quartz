@@ -4,5 +4,7 @@ https://bolt.new/
 
 https://stackblitz-labs.github.io/bolt.diy/
 
+GH项目地址：https://github.com/stackblitz-labs/bolt.diy
+
 一个[[React基础知识测试]]的[[bolt.new]]的实例：
 
