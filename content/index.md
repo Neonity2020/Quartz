@@ -27,12 +27,6 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 		- 录屏软件Mac
 			- [[Screen Studio]]
 
-<iframe 
-  width="800"
-  height="450"
-  src="https://www.bilibili.com/video/BV1vpFNeYEY6/?share_source=copy_web&vd_source=276126e6cf709e1eb2f51fd5f67896e1"
-  frameborder="0" 
-  allowfullscreen>
-</iframe>
+【使用Cursor构建的一个网址导航网站】 https://www.bilibili.com/video/BV1vpFNeYEY6/?share_source=copy_web&vd_source=276126e6cf709e1eb2f51fd5f67896e1
 
 【使用Cursor构建的一个网址导航webApp】 #NextJS #React #Typescript #TailwindCSS
